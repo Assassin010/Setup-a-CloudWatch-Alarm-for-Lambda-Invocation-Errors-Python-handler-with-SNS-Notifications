@@ -18,7 +18,7 @@ The terraform plan command lets you to preview the actions Terraform would take 
 
 
 
-• Note: Modify terraform.tfvars.
+• Note: Modify the terraform.tfvars file:
 put YOUR AWS ACCOUND ID only on the first arn
 
 
